@@ -8,7 +8,7 @@ maximizes expected points: going for it, kicking a field goal, or punting?
 The end product is a decision chart coaches could actually use.
 
 ## Data
-NFL play-by-play data from nflverse. Seasons: TBD.
+NFL play-by-play data from nflverse. Seasons: 3
 
 ## Approach
 For each situation, estimate the expected points (EP) of each option:
