@@ -19,6 +19,7 @@ For each situation, estimate the expected points (EP) of each option:
 Pick the option with the highest EP, then plot it as a grid
 (yard line on one axis, yards to go on the other).
 
+Next Steps
 1. Clean the data (remove fake punts/FGs and garbage time)
 2. Put expected points on every outcome
 3. Calculate go vs FG vs punt for every situation
